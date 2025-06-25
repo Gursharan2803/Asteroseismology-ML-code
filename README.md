@@ -1,3 +1,3 @@
 # Asteroseismology-ML-code
 
-The python file contains the model code for the prediction of seismic parameters of the subgiants stars. 
+The Python file CNN_LSTM_hybrid_model.py contains the model code for predicting the seismic parameters of subgiant stars. 
